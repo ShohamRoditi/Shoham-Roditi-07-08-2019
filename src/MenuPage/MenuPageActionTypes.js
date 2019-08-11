@@ -1,0 +1,5 @@
+export const MENU_LOADING = 'MENU_LOADING'
+export const ADD_WEATHER = 'ADD_WEATHER'
+export const AUTO_COMPLETE = 'AUTO_COMPLETE'
+export const MODAL_STATE = 'MODAL_STATE'
+export const DAILY_FORECASTS = 'DAILY_FORECASTS'
